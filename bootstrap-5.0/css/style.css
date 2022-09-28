@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	text-align: center;
+}
+
+
+.parallax{
+	background-image: url('bootstrap-5.0/css/img/Vapor1.gif');
+	min-height: 400px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#parallax2{
+	background-image: url('../images/leoes.gif');
+	min-height: 400px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#parallax input{
+	width: 400px;
+	margin-top: 200px;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 18px;
+}
+
+#parallax .btn {
+  background: #012E40;
+  background-image: -webkit-linear-gradient(top, #012E40, #4C004C);
+  background-image: -moz-linear-gradient(top, #012E40, #4C004C);
+  background-image: -ms-linear-gradient(top, #012E40, #4C004C);
+  background-image: -o-linear-gradient(top, #012E40, #4C004C);
+  background-image: linear-gradient(to bottom, #012E40, #4C004C);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
