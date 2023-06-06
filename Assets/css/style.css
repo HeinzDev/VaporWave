@@ -64,10 +64,3 @@ body{
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
-
-.more {
-	padding: 60px 0px;
-	background-image: url('./Assets/Images/VaporA.gif');
-  background-position: center center;
-	background-size: 110%;
-}
